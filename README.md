@@ -10,11 +10,11 @@ I constantly strive to bridge the gap between academic research and production-g
 
 ---
 
-## 🧠 Long-Term Contextual Memory System (LTMS)
+## Long-Term Contextual Memory System (LTMS)
 
 **LTMS** is a pioneering architecture I developed and published, designed to bring long-term, multimodal memory to language models — enabling deeper, more personalized AI conversations.
 
-### 📄 Research Publication
+### Research Publication
 **Title**: *Long-Term Contextual Memory for AI Systems*  
 **Journal**: IRJMETS – March 2025 Edition  
 **Highlights**:
@@ -28,7 +28,7 @@ I constantly strive to bridge the gap between academic research and production-g
 
 ---
 
-## 🛠️ Other Projects
+## Other Projects
 
 - **Solac – Full-Stack AI Assistant**  
   Built under 24 hours in a national-level hackathon
