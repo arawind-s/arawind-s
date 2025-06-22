@@ -45,7 +45,7 @@ Machine Learning, Natural Language Processing (NLP), Agentic AI, Retrieval-Augme
 - Multimodal context handling (text, image, voice)
 - Lightweight and scalable
 
-> **[→ LTMS Repo]**: (https://github.com/arawind-s/LongTermMemorySystem)
+> [→ LTMS Repo]: (https://github.com/arawind-s/LongTermMemorySystem)
 
 
 ---
