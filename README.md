@@ -8,6 +8,27 @@ My most notable work is the **Long-Term Memory System (LTMS)**, a research-backe
 
 I constantly strive to bridge the gap between academic research and production-grade systems, pushing technological boundaries while keeping user impact at the core.
 
+## Tech Stack
+
+**Programming Languages:**  
+Python, Java
+
+**Frameworks & Libraries:**  
+LangChain, LangGraph, PyTorch, FastAPI, scikit-learn
+
+**AI/ML & NLP Tools:**  
+LLMs (LLaMA, Gemini, GPT), ChromaDB, Hugging Face Transformers, OpenAI API, Groq AI, Gemini API
+
+**Data & Visualization Tools:**  
+Power BI, Pandas, NumPy, MySQL
+
+**API Integration & Deployment:**  
+Git, Docker, REST APIs
+
+**Core Concepts:**  
+Machine Learning, Natural Language Processing (NLP), Agentic AI, Retrieval-Augmented Generation (RAG), Vector Databases, Contextual Memory Systems, Generative AI
+
+
 ---
 
 ## Long-Term Contextual Memory System (LTMS)
